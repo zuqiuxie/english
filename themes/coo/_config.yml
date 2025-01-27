@@ -3,7 +3,7 @@ recent_posts_limits: 4
 
 # The categories and order displayed on the home page
 index_categories:
-  - 日常交际用语
+  - Programming
   - Toolkit
   - Linux Command
   - Python
