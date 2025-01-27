@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CheatSheets.zip
-subtitle: 'Quick Reference Cheat Sheet'
+title: 开口就说 地道英语口语
+subtitle: '开口就说'
 description: 'Share quick reference and cheat sheet for developers'
 keywords: reference,cheatsheet,code table,snippets,linux
-author: CheatSheets.zip
+author: 开口就说 地道英语口语
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://cheatsheets.zip
+url: https://english.wangbin.run
 root: /
 permalink: :name.html
 permalink_defaults:
